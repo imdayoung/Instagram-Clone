@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">앱이름 넣기</string>
+    <string name="facebook_app_id">1250907545370563</string>
+    <string name="fb_login_protocol_scheme">fb1250907545370563</string>
+</resources>
